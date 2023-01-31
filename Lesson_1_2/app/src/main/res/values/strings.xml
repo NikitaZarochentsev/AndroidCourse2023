@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lesson_1_2</string>
+
+    <string name="button_to_browser">Открыть в браузере</string>
+    <string name="button_to_email">Открыть электронную почту</string>
+    <string name="button_to_phone">Открыть в телефоне</string>
+    <string name="button_to_map">Открыть в карте</string>
+    
+    <string name="data_incorrect">Неверный формат данных</string>
+    <string name="app_missing">Отсутствует приложение</string>
+</resources>

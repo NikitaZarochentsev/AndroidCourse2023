@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lesson_1_1</string>
+
+    <string name="button_to_red_activity">Перейти на RedActivity</string>
+    <string name="button_to_green_activity">Перейти на GreenActivity</string>
+    <string name="button_to_blue_activity">Перейти на BlueActivity</string>
+
+    <string name="text_view_red_activity">RedActivity</string>
+    <string name="text_view_green_activity">GreenActivity</string>
+    <string name="text_view_blue_activity">BlueActivity</string>
+</resources>
