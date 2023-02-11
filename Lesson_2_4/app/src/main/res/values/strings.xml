@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lesson_2_4</string>
+    <string name="log">%1$s%2$s\n</string>
+</resources>

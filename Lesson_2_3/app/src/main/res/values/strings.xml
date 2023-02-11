@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lesson_2_3</string>
+
+    <string name="button_1_main">1</string>
+    <string name="button_2_main">2</string>
+    <string name="button_3_main">3</string>
+    <string name="text_view_first">1</string>
+    <string name="text_view_second">2</string>
+    <string name="text_view_third">3</string>
+
+    <string name="button_a_main">A</string>
+    <string name="button_b_main">B</string>
+    <string name="button_c_main">C</string>
+    <string name="text_view_a">A</string>
+    <string name="text_view_b">B</string>
+    <string name="text_view_c">C</string>
+</resources>
