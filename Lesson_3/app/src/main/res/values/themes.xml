@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Base.V21.Theme" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.Lesson_3" parent="Base.V21.Theme">
+        <item name="colorPrimary">@color/smalt</item>
+        <item name="textInputStyle">@style/Theme.Lesson_3.TextInputLayout</item>
+    </style>
+</resources>

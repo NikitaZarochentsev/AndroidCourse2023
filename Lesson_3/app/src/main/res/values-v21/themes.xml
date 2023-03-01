@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.V27.Theme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:navigationBarColor">@color/black_20pc</item>
+    </style>
+
+    <style name="Base.V21.Theme" parent="Base.V27.Theme">
+        <item name="android:statusBarColor">@color/black_20pc</item>
+    </style>
+</resources>
