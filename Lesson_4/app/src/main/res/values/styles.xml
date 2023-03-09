@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance" parent="android:TextAppearance" />
+
+    <style name="TextAppearance.H1">
+        <item name="android:textSize">@dimen/text_h1_size</item>
+        <item name="android:lineSpacingExtra">@dimen/text_h1_line</item>
+        <item name="android:textColor">@color/black_87pc</item>
+    </style>
+
+    <style name="TextAppearance.H2">
+        <item name="android:textSize">@dimen/text_h2_size</item>
+        <item name="android:lineSpacingExtra">@dimen/text_h2_line</item>
+        <item name="android:textColor">@color/black_87pc</item>
+    </style>
+
+    <style name="Theme.Lesson_3.TextInputLayout" parent="Widget.Material3.TextInputLayout.FilledBox">
+        <item name="boxBackgroundColor">@color/seashell</item>
+        <item name="boxStrokeColor">@color/text_field_box_stroke_color</item>
+        <item name="shapeAppearance">@style/Theme.Lesson_3.TextInputLayout.ShapeAppearance</item>
+        <item name="hintTextAppearance">@style/Theme.Lesson_3.TextField.Hint</item>
+        <item name="android:textColorHint">@color/silver_chalice</item>
+        <item name="hintTextColor">@color/silver_chalice</item>
+        <item name="endIconTint">@color/black</item>
+    </style>
+
+    <style name="Theme.Lesson_3.TextInputLayout.ShapeAppearance">
+        <item name="cornerSize">@dimen/layout_text_border_radius</item>
+    </style>
+
+    <style name="Theme.Lesson_3.TextField" parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:textSize">@dimen/text_hint_size</item>
+        <item name="android:lineSpacingExtra">@dimen/text_hint_line</item>
+        <item name="android:textColor">@color/black_87pc</item>
+    </style>
+
+    <style name="Theme.Lesson_3.TextField.Hint" parent="TextAppearance.Material3.BodySmall">
+
+    </style>
+
+    <style name="Theme.Lesson_3.Button" parent="Widget.Material3.Button.UnelevatedButton">
+        <item name="shapeAppearance">@style/Theme.Lesson_3.Button.ShapeAppearance</item>
+        <item name="android:textAppearance">@style/Theme.Lesson_3.Button.TextAppearance</item>
+    </style>
+
+    <style name="Theme.Lesson_3.Button.ShapeAppearance" parent="ShapeAppearance.M3.Sys.Shape.Corner.Full">
+        <item name="cornerSize">@dimen/button_border_radius</item>
+    </style>
+
+    <style name="Theme.Lesson_3.Button.TextAppearance" parent="TextAppearance.Material3.LabelLarge">
+        <item name="android:textSize">@dimen/text_button_size</item>
+        <item name="android:lineSpacingExtra">@dimen/text_button_line</item>
+        <item name="textAllCaps">true</item>
+    </style>
+
+</resources>

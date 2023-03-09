@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson_4</string>
+
+    <string name="text_view_title">Температура</string>
+    <string name="text_view_value">%1$s: %2$s</string>
+    <string name="text_view_value_default">Нет данных</string>
+    <string name="temperature_input_hint">Город или координаты</string>
+    <string name="temperature_button_text">Узнать температуру</string>
+</resources>
