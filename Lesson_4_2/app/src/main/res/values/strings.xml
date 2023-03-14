@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lesson_4_2</string>
+
+    <string name="button_text_request">Запросить</string>
+    <string name="button_text_repeat">Повторить</string>
+
+    <string name="author_title_text">%1$s\n</string>
+    <string name="availability_text">%1$s (в наличии)\n</string>
+    <string name="no_availability_text">%1$s (нет в наличии)\n</string>
+
+    <string name="error_text_get_books_exception">Произошла ошибка в запросе getBooks()</string>
+    <string name="error_text_get_authors_exception">Произошла ошибка в запросе getAuthors()</string>
+    <string name="error_text_get_availability_exception">Произошла ошибка в запросе getAvailability()</string>
+</resources>

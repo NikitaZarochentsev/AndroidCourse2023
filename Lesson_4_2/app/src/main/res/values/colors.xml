@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white_50pc">#80FFFFFF</color>
+    <color name="black_20pc">#33000000</color>
+    <color name="black">#000000</color>
+    <color name="smalt">#003594</color>
+    <color name="red">#DA1F24</color>
+</resources>
